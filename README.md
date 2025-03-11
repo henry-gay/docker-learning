@@ -47,7 +47,7 @@ docker run hello-world
 
 ## Notes & Resources
 - **Documentation:** Notes and resources are stored in the `docs/` folder.
-- **KodeKloud Course Link:** [KodeKloud Docker Course]([https://kodekloud.com/courses/docker-for-beginners/](https://learn.kodekloud.com/user/courses/docker-training-course-for-the-absolute-beginner/))
+- **KodeKloud Course Link:** [KodeKloud Docker Course](https://learn.kodekloud.com/user/courses/docker-training-course-for-the-absolute-beginner/)
 
 ## Contributions
 This is a personal learning repository, but feel free to open issues or suggest improvements!
