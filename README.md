@@ -35,7 +35,7 @@ Before using the examples in this repository, ensure you have the following inst
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/docker-learning.git
+git clone https://github.com/henry-gay/docker-learning.git
 cd docker-learning
 ```
 
