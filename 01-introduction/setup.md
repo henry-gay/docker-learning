@@ -79,8 +79,7 @@
 <details>
   <summary>Remove Residual Files</summary>
 
-  <details>
-    <summary>List of Residual Files</summary>
+    List of Residual Files
 
     - `~/.docker`
     - `/var/lib/docker`
@@ -91,13 +90,11 @@
     - `/usr/bin/docker-compose`
     - `/usr/share/docker`
 
-  </details>
 
 To remove these files, run:
   ```bash
   sudo rm -rf ~/.docker /var/lib/docker /var/lib/containerd /etc/docker /usr/local/bin/docker /usr/bin/docker /usr/bin/docker-compose /usr/share/docker
   ```
-
 </details>
 
 4. **Install Docker**
