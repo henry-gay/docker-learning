@@ -22,7 +22,6 @@ docker-learning/
 |── 10-container-orchestration/ # Container Orchestration, Docker Swarm, Kubernetes Introduction
 │── docs/                       # Notes and references
 │── README.md                   # Project overview and documentation
-│── .gitignore                  # Ignored files and directories
 ```
 
 ## Getting Started
